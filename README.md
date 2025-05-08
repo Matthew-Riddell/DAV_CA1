@@ -23,6 +23,8 @@ WHO (2025). Universal health coverage (UHC). [online] World Health Organization.
 
 GHS INDEX (2021). The 2021 Global Health Security Index. [online] GHS Index. Available at: https://ghsindex.org/.
 
+VanderPlas, J. (2019). In Depth: k-Means Clustering | Python Data Science Handbook. [online] Github.io. Available at: https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html.
+
 ChatGPT for assistance with the development of the CHI in Jupyter Notebook:
 ChatGPT. (2025). ChatGPT - New chat. [online] Available at: https://chatgpt.com/share/68166c24-14cc-8007-a343-b1b7946badd2.
 
